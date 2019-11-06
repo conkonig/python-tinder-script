@@ -1,0 +1,3 @@
+fbUser = ''
+fbPassword = ''
+favoriteExtension = '' 
